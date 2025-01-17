@@ -1,5 +1,3 @@
-# Path-Finder
-
 
 # Shortest-Path-Finder
 
